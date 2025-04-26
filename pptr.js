@@ -1,7 +1,7 @@
 const puppeteer = require('puppeteer');
 
 
-const paths =__dirname+"./history/historyOverride";
+const paths =__dirname+"./historyOverride";
 
 
 const opts = {
