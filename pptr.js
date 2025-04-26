@@ -1,8 +1,5 @@
 const puppeteer = require('puppeteer');
-
-
 const paths =__dirname+"./historyOverride";
-
 
 const opts = {
   headless: false,
